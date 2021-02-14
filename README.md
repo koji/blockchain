@@ -9,3 +9,5 @@ $ poetry install
 $ poetry shell
 $ poetry run python my-project current_price.py
 ```
+
+The script displays the latest `Bitcoin` price.
